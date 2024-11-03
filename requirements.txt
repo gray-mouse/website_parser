@@ -1,0 +1,12 @@
+beautifulsoup4==4.12.3
+bs4==0.0.2
+certifi==2024.8.30
+charset-normalizer==3.4.0
+idna==3.10
+peewee==3.17.7
+requests==2.32.3
+shortcuts==0.11.0
+soupsieve==2.6
+toml==0.10.2
+tqdm==4.66.6
+urllib3==2.2.3

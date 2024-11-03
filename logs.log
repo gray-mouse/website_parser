@@ -1,0 +1,529 @@
+2024-11-03 22:52:53,469 | app_logger | INFO | Связь с базой данных установлена.
+2024-11-03 22:52:53,470 | app_logger | WARNING | Ошибка при подключении к базе данных: 'q'
+2024-11-03 22:52:53,470 | app_logger | INFO | Запуск программы...
+2024-11-03 22:52:53,470 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com
+2024-11-03 22:52:54,191 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 22:52:54,191 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com
+2024-11-03 22:52:54,191 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 22:52:54,767 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 22:52:54,769 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:52:55,342 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 22:52:55,344 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:52:55,922 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 22:52:55,924 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:52:56,498 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jane-Austen
+2024-11-03 22:52:56,499 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:52:57,052 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 22:52:57,055 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:52:57,673 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 22:52:57,675 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:52:58,288 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Andre-Gide
+2024-11-03 22:52:58,293 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:52:58,869 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Thomas-A-Edison
+2024-11-03 22:52:58,870 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:52:59,518 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Eleanor-Roosevelt
+2024-11-03 22:52:59,521 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:00,130 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Steve-Martin
+2024-11-03 22:53:00,132 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:00,144 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 22:53:00,144 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/2/
+2024-11-03 22:53:00,144 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/2/
+2024-11-03 22:53:00,747 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 22:53:00,747 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/2/
+2024-11-03 22:53:00,747 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 22:53:01,359 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 22:53:01,360 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:01,942 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 22:53:01,947 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:02,588 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 22:53:02,589 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:03,166 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Bob-Marley
+2024-11-03 22:53:03,170 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:03,726 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 22:53:03,728 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:04,290 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Douglas-Adams
+2024-11-03 22:53:04,293 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:04,901 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Elie-Wiesel
+2024-11-03 22:53:04,903 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:05,563 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Friedrich-Nietzsche
+2024-11-03 22:53:05,565 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:06,172 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 22:53:06,174 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:06,748 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Allen-Saunders
+2024-11-03 22:53:06,752 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:06,779 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 22:53:06,779 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/3/
+2024-11-03 22:53:06,779 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/3/
+2024-11-03 22:53:07,401 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 22:53:07,401 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/3/
+2024-11-03 22:53:07,402 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 22:53:08,016 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Pablo-Neruda
+2024-11-03 22:53:08,021 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:08,631 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Ralph-Waldo-Emerson
+2024-11-03 22:53:08,632 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:09,245 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mother-Teresa
+2024-11-03 22:53:09,250 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:09,811 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Garrison-Keillor
+2024-11-03 22:53:09,812 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:10,363 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jim-Henson
+2024-11-03 22:53:10,367 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:10,915 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 22:53:10,917 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:11,549 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 22:53:11,554 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:12,215 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 22:53:12,216 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:12,830 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 22:53:12,833 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:13,442 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Bob-Marley
+2024-11-03 22:53:13,444 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:13,454 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 22:53:13,454 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/4/
+2024-11-03 22:53:13,454 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/4/
+2024-11-03 22:53:14,059 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 22:53:14,060 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/4/
+2024-11-03 22:53:14,060 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 22:53:14,671 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 22:53:14,672 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:15,287 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 22:53:15,290 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:15,900 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Bob-Marley
+2024-11-03 22:53:15,901 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:16,510 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mother-Teresa
+2024-11-03 22:53:16,514 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:17,129 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 22:53:17,131 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:17,744 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Charles-M-Schulz
+2024-11-03 22:53:17,747 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:18,366 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/William-Nicholson
+2024-11-03 22:53:18,367 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:18,974 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 22:53:18,977 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:19,547 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jorge-Luis-Borges
+2024-11-03 22:53:19,549 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:20,201 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/George-Eliot
+2024-11-03 22:53:20,204 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:20,216 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 22:53:20,216 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/5/
+2024-11-03 22:53:20,216 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/5/
+2024-11-03 22:53:20,777 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 22:53:20,777 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/5/
+2024-11-03 22:53:20,777 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 22:53:21,334 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/George-R-R-Martin
+2024-11-03 22:53:21,339 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:21,909 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/C-S-Lewis
+2024-11-03 22:53:21,910 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:22,557 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 22:53:22,559 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:23,106 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 22:53:23,107 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:23,769 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 22:53:23,772 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:24,388 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 22:53:24,390 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:25,001 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 22:53:25,006 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:25,587 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Martin-Luther-King-Jr
+2024-11-03 22:53:25,588 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:26,174 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 22:53:26,175 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:26,734 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/James-Baldwin
+2024-11-03 22:53:26,736 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:26,739 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 22:53:26,739 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/6/
+2024-11-03 22:53:26,739 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/6/
+2024-11-03 22:53:27,290 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 22:53:27,290 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/6/
+2024-11-03 22:53:27,290 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 22:53:27,833 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jane-Austen
+2024-11-03 22:53:27,835 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:28,391 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Eleanor-Roosevelt
+2024-11-03 22:53:28,393 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:28,941 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 22:53:28,942 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:29,487 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 22:53:29,491 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:30,044 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Haruki-Murakami
+2024-11-03 22:53:30,046 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:30,602 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Alexandre-Dumas-fils
+2024-11-03 22:53:30,605 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:31,165 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Stephenie-Meyer
+2024-11-03 22:53:31,166 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:31,727 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Ernest-Hemingway
+2024-11-03 22:53:31,729 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:32,301 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Helen-Keller
+2024-11-03 22:53:32,302 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:33,001 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/George-Bernard-Shaw
+2024-11-03 22:53:33,006 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:33,023 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 22:53:33,023 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/7/
+2024-11-03 22:53:33,023 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/7/
+2024-11-03 22:53:33,615 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 22:53:33,616 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/7/
+2024-11-03 22:53:33,616 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 22:53:34,230 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Charles-Bukowski
+2024-11-03 22:53:34,233 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:34,791 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Suzanne-Collins
+2024-11-03 22:53:34,792 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:35,462 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Suzanne-Collins
+2024-11-03 22:53:35,465 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:36,073 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/C-S-Lewis
+2024-11-03 22:53:36,074 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:36,681 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-R-R-Tolkien
+2024-11-03 22:53:36,684 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:37,301 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 22:53:37,303 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:37,917 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Ernest-Hemingway
+2024-11-03 22:53:37,920 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:38,531 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Ralph-Waldo-Emerson
+2024-11-03 22:53:38,533 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:39,146 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 22:53:39,149 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:39,760 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 22:53:39,762 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:39,771 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 22:53:39,771 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/8/
+2024-11-03 22:53:39,771 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/8/
+2024-11-03 22:53:40,376 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 22:53:40,376 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/8/
+2024-11-03 22:53:40,377 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 22:53:40,947 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Alfred-Tennyson
+2024-11-03 22:53:40,949 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:41,604 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Charles-Bukowski
+2024-11-03 22:53:41,607 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:42,319 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Terry-Pratchett
+2024-11-03 22:53:42,321 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:42,936 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 22:53:42,940 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:43,548 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-D-Salinger
+2024-11-03 22:53:43,550 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:44,164 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/George-Carlin
+2024-11-03 22:53:44,167 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:44,732 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/John-Lennon
+2024-11-03 22:53:44,734 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:45,349 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/W-C-Fields
+2024-11-03 22:53:45,352 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:45,914 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Ayn-Rand
+2024-11-03 22:53:45,915 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:46,460 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 22:53:46,465 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:46,481 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 22:53:46,481 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/9/
+2024-11-03 22:53:46,481 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/9/
+2024-11-03 22:53:47,023 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 22:53:47,023 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/9/
+2024-11-03 22:53:47,023 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 22:53:47,608 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 22:53:47,612 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:48,259 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jane-Austen
+2024-11-03 22:53:48,261 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:48,875 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 22:53:48,879 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:49,445 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jane-Austen
+2024-11-03 22:53:49,446 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:50,060 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jane-Austen
+2024-11-03 22:53:50,063 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:50,669 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/C-S-Lewis
+2024-11-03 22:53:50,670 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:51,283 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/C-S-Lewis
+2024-11-03 22:53:51,285 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:51,837 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 22:53:51,839 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:52,458 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 22:53:52,462 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:53,071 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/C-S-Lewis
+2024-11-03 22:53:53,073 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:53,087 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 22:53:53,087 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/10/
+2024-11-03 22:53:53,087 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/10/
+2024-11-03 22:53:53,688 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 22:53:53,688 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/10/
+2024-11-03 22:53:53,689 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 22:53:54,403 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 22:53:54,405 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:55,019 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jimi-Hendrix
+2024-11-03 22:53:55,023 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:55,632 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-M-Barrie
+2024-11-03 22:53:55,634 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:56,247 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/E-E-Cummings
+2024-11-03 22:53:56,249 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:56,852 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Khaled-Hosseini
+2024-11-03 22:53:56,854 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:57,475 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Harper-Lee
+2024-11-03 22:53:57,478 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:58,089 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Madeleine-LEngle
+2024-11-03 22:53:58,091 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:58,666 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 22:53:58,668 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:59,275 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 22:53:59,277 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:59,833 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/George-R-R-Martin
+2024-11-03 22:53:59,836 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 22:53:59,850 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 22:53:59,851 | app_logger | INFO | Переход на следующую страницу: None
+2024-11-03 22:53:59,851 | app_logger | INFO | Работа программы завершена.
+2024-11-03 23:09:18,076 | app_logger | INFO | Связь с базой данных установлена.
+2024-11-03 23:09:18,095 | app_logger | WARNING | Ошибка при подключении к базе данных: 'q'
+2024-11-03 23:09:18,096 | app_logger | INFO | Запуск программы...
+2024-11-03 23:09:18,096 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com
+2024-11-03 23:09:18,883 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 23:09:18,883 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com
+2024-11-03 23:09:18,883 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 23:09:19,455 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 23:09:19,459 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:20,111 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 23:09:20,113 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:20,682 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 23:09:20,685 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:21,340 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jane-Austen
+2024-11-03 23:09:21,341 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:21,956 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 23:09:21,959 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:22,671 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 23:09:22,673 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:23,287 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Andre-Gide
+2024-11-03 23:09:23,291 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:24,003 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Thomas-A-Edison
+2024-11-03 23:09:24,005 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:24,618 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Eleanor-Roosevelt
+2024-11-03 23:09:24,619 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:25,231 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Steve-Martin
+2024-11-03 23:09:25,233 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:25,252 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 23:09:25,252 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/2/
+2024-11-03 23:09:25,252 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/2/
+2024-11-03 23:09:25,798 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 23:09:25,798 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/2/
+2024-11-03 23:09:25,798 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 23:09:26,418 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 23:09:26,420 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:27,069 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 23:09:27,071 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:27,690 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 23:09:27,691 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:28,305 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Bob-Marley
+2024-11-03 23:09:28,309 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:28,918 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 23:09:28,920 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:29,534 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Douglas-Adams
+2024-11-03 23:09:29,537 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:30,249 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Elie-Wiesel
+2024-11-03 23:09:30,251 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:30,966 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Friedrich-Nietzsche
+2024-11-03 23:09:30,967 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:31,669 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 23:09:31,671 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:32,298 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Allen-Saunders
+2024-11-03 23:09:32,301 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:32,338 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 23:09:32,338 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/3/
+2024-11-03 23:09:32,338 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/3/
+2024-11-03 23:09:32,912 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 23:09:32,912 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/3/
+2024-11-03 23:09:32,912 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 23:09:33,455 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Pablo-Neruda
+2024-11-03 23:09:33,458 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:34,038 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Ralph-Waldo-Emerson
+2024-11-03 23:09:34,039 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:34,655 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mother-Teresa
+2024-11-03 23:09:34,659 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:35,371 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Garrison-Keillor
+2024-11-03 23:09:35,373 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:36,060 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jim-Henson
+2024-11-03 23:09:36,064 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:36,615 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 23:09:36,616 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:37,172 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 23:09:37,174 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:37,726 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 23:09:37,728 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:38,340 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 23:09:38,343 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:38,920 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Bob-Marley
+2024-11-03 23:09:38,922 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:38,929 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 23:09:38,930 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/4/
+2024-11-03 23:09:38,930 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/4/
+2024-11-03 23:09:39,570 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 23:09:39,570 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/4/
+2024-11-03 23:09:39,570 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 23:09:40,182 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 23:09:40,183 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:40,746 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 23:09:40,748 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:41,362 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Bob-Marley
+2024-11-03 23:09:41,363 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:42,026 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mother-Teresa
+2024-11-03 23:09:42,029 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:42,640 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 23:09:42,642 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:43,245 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Charles-M-Schulz
+2024-11-03 23:09:43,248 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:43,931 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/William-Nicholson
+2024-11-03 23:09:43,933 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:44,550 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 23:09:44,553 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:45,200 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jorge-Luis-Borges
+2024-11-03 23:09:45,201 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:45,751 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/George-Eliot
+2024-11-03 23:09:45,753 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:45,767 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 23:09:45,767 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/5/
+2024-11-03 23:09:45,767 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/5/
+2024-11-03 23:09:46,429 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 23:09:46,429 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/5/
+2024-11-03 23:09:46,429 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 23:09:46,999 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/George-R-R-Martin
+2024-11-03 23:09:47,000 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:47,657 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/C-S-Lewis
+2024-11-03 23:09:47,659 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:48,375 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 23:09:48,378 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:48,988 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 23:09:48,989 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:49,544 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 23:09:49,547 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:50,173 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 23:09:50,174 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:50,833 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 23:09:50,837 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:51,549 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Martin-Luther-King-Jr
+2024-11-03 23:09:51,550 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:52,146 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 23:09:52,151 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:52,777 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/James-Baldwin
+2024-11-03 23:09:52,778 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:52,788 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 23:09:52,789 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/6/
+2024-11-03 23:09:52,789 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/6/
+2024-11-03 23:09:53,175 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 23:09:53,175 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/6/
+2024-11-03 23:09:53,175 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 23:09:53,753 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jane-Austen
+2024-11-03 23:09:53,754 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:54,370 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Eleanor-Roosevelt
+2024-11-03 23:09:54,374 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:54,935 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Marilyn-Monroe
+2024-11-03 23:09:54,936 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:55,646 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 23:09:55,649 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:56,259 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Haruki-Murakami
+2024-11-03 23:09:56,261 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:56,874 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Alexandre-Dumas-fils
+2024-11-03 23:09:56,879 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:57,439 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Stephenie-Meyer
+2024-11-03 23:09:57,440 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:58,103 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Ernest-Hemingway
+2024-11-03 23:09:58,106 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:58,819 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Helen-Keller
+2024-11-03 23:09:58,821 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:59,434 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/George-Bernard-Shaw
+2024-11-03 23:09:59,437 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:09:59,458 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 23:09:59,459 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/7/
+2024-11-03 23:09:59,459 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/7/
+2024-11-03 23:10:00,048 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 23:10:00,048 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/7/
+2024-11-03 23:10:00,048 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 23:10:00,664 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Charles-Bukowski
+2024-11-03 23:10:00,666 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:01,365 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Suzanne-Collins
+2024-11-03 23:10:01,367 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:01,994 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Suzanne-Collins
+2024-11-03 23:10:01,997 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:02,608 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/C-S-Lewis
+2024-11-03 23:10:02,610 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:03,223 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-R-R-Tolkien
+2024-11-03 23:10:03,228 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:03,844 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 23:10:03,845 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:04,452 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Ernest-Hemingway
+2024-11-03 23:10:04,456 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:05,067 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Ralph-Waldo-Emerson
+2024-11-03 23:10:05,069 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:05,773 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 23:10:05,777 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:06,397 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 23:10:06,399 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:06,410 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 23:10:06,410 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/8/
+2024-11-03 23:10:06,410 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/8/
+2024-11-03 23:10:06,968 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 23:10:06,968 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/8/
+2024-11-03 23:10:06,968 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 23:10:07,521 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Alfred-Tennyson
+2024-11-03 23:10:07,522 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:08,108 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Charles-Bukowski
+2024-11-03 23:10:08,111 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:08,705 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Terry-Pratchett
+2024-11-03 23:10:08,706 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:09,323 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 23:10:09,325 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:09,981 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-D-Salinger
+2024-11-03 23:10:09,982 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:10,659 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/George-Carlin
+2024-11-03 23:10:10,663 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:11,312 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/John-Lennon
+2024-11-03 23:10:11,314 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:12,030 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/W-C-Fields
+2024-11-03 23:10:12,034 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:12,746 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Ayn-Rand
+2024-11-03 23:10:12,747 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:13,361 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 23:10:13,364 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:13,382 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 23:10:13,382 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/9/
+2024-11-03 23:10:13,382 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/9/
+2024-11-03 23:10:13,975 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 23:10:13,975 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/9/
+2024-11-03 23:10:13,975 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 23:10:14,590 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Albert-Einstein
+2024-11-03 23:10:14,592 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:15,203 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jane-Austen
+2024-11-03 23:10:15,205 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:15,819 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 23:10:15,823 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:16,534 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jane-Austen
+2024-11-03 23:10:16,536 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:17,150 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jane-Austen
+2024-11-03 23:10:17,153 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:17,866 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/C-S-Lewis
+2024-11-03 23:10:17,867 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:18,483 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/C-S-Lewis
+2024-11-03 23:10:18,485 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:19,095 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 23:10:19,096 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:19,710 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 23:10:19,715 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:20,426 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/C-S-Lewis
+2024-11-03 23:10:20,428 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:20,443 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 23:10:20,443 | app_logger | INFO | Переход на следующую страницу: http://quotes.toscrape.com/page/10/
+2024-11-03 23:10:20,443 | app_logger | INFO | Загрузка страницы http://quotes.toscrape.com/page/10/
+2024-11-03 23:10:21,042 | app_logger | INFO | Страница успешно загружена!
+2024-11-03 23:10:21,042 | app_logger | INFO | Начало записи в базу данных со страницы http://quotes.toscrape.com/page/10/
+2024-11-03 23:10:21,042 | app_logger | INFO | Начало сбора данных со страницы http://quotes.toscrape.com
+2024-11-03 23:10:21,655 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-K-Rowling
+2024-11-03 23:10:21,655 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:22,264 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Jimi-Hendrix
+2024-11-03 23:10:22,267 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:22,883 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/J-M-Barrie
+2024-11-03 23:10:22,885 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:23,500 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/E-E-Cummings
+2024-11-03 23:10:23,503 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:24,064 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Khaled-Hosseini
+2024-11-03 23:10:24,066 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:24,629 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Harper-Lee
+2024-11-03 23:10:24,632 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:25,341 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Madeleine-LEngle
+2024-11-03 23:10:25,343 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:25,957 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Mark-Twain
+2024-11-03 23:10:25,960 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:26,570 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/Dr-Seuss
+2024-11-03 23:10:26,571 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:27,185 | app_logger | INFO | Начало сбора данных со страницы автора: http://quotes.toscrape.com/author/George-R-R-Martin
+2024-11-03 23:10:27,190 | app_logger | INFO | Данные автора успешно собраны.
+2024-11-03 23:10:27,207 | app_logger | INFO | Запись прошла успешно!
+2024-11-03 23:10:27,207 | app_logger | INFO | Переход на следующую страницу: None
+2024-11-03 23:10:27,207 | app_logger | INFO | Работа программы завершена.
+2024-11-03 23:10:27,245 | app_logger | INFO | Файлы с цитатами и данными авторов сформированы
